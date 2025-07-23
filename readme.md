@@ -91,7 +91,7 @@ The project architecture is separated by layers. From the API, we will have a la
 
 
 ## Folder structure 📁
-
+```
 /project
 ├── /migrations
 ├── /src
@@ -115,7 +115,7 @@ The project architecture is separated by layers. From the API, we will have a la
 ├── migrate.config.ts
 ├── package.json
 └── tsconfig.json
-
+```
 ## Improvements and trade offs 📈
 
 1. What would you improve from your code? why?
